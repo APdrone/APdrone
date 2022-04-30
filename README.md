@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aman Patwal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -19,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@amanpatwalfor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amanpatwalfor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-patwal-376bb173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-patwal-376bb173" height="30" width="40" /></a>
 </p>
 
@@ -28,7 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apdrone&show_icons=true&locale=en&layout=compact" alt="apdrone" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apdrone&show_icons=true&locale=en" alt="apdrone" /></p>
-
 
 <!--
 **APdrone/APdrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
