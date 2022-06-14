@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **amanpatwalfor@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fN3YC30gfk1zcIaOb1JouBiqHsVJY0M6/view?usp=sharing]
-(Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15YIuHDb9MvQhvEB6o6Xqu41cHfEI8KL5/view?usp=sharing]
+(https://drive.google.com/file/d/15YIuHDb9MvQhvEB6o6Xqu41cHfEI8KL5/view?usp=sharing)
 
 - ⚡ Fun fact **Traveller BookWorm**
 
