@@ -12,7 +12,7 @@
 - 📫 How to reach me **amanpatwalfor@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15YIuHDb9MvQhvEB6o6Xqu41cHfEI8KL5/view?usp=sharing]
-- (https://drive.google.com/file/d/15YIuHDb9MvQhvEB6o6Xqu41cHfEI8KL5/view?usp=sharing)
+(https://drive.google.com/file/d/15YIuHDb9MvQhvEB6o6Xqu41cHfEI8KL5/view?usp=sharing)
 
 - ⚡ Fun fact **Traveller BookWorm**
 
