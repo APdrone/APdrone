@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Patwal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">working as Senior SDET in EPAM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apdrone&label=Profile%20views&color=0e75b6&style=flat" alt="apdrone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apdrone" alt="apdrone" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-projects.netlify.app/](https://my-portfolio-projects.netlify.app/)
-
-- 💬 Ask me about **HTML CSS JS React Nodejs Nestjs MongoDB**
-
 - 📫 How to reach me **amanpatwalfor@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15YIuHDb9MvQhvEB6o6Xqu41cHfEI8KL5/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bkEfrknn5ggmnRcwUN5jP_1T6XD8a4HL/view?usp=share_link]
 
 - ⚡ Fun fact **Traveller BookWorm**
 
